@@ -54,7 +54,7 @@
     "rimraf": "^2.5.4"
   },
   "dependencies": {
-    "lodash.isequal": "^4.1.4",
+    "lodash.isequal": "^4.5.0",
     "object-assign": "^4.1.0",
     "util-inspect": "^0.1.8"
   },
