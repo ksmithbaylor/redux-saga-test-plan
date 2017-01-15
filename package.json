@@ -54,7 +54,7 @@
     "eslint": "^3.9.1",
     "eslint-config-airbnb-base": "^11.0.0",
     "eslint-import-resolver-node": "^0.3.0",
-    "eslint-plugin-flowtype": "^2.19.0",
+    "eslint-plugin-flowtype": "^2.30.0",
     "eslint-plugin-import": "^2.1.0",
     "flow-bin": "^0.37.0",
     "gitbook-cli": "^2.3.0",
